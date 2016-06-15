@@ -1,8 +1,6 @@
 <?php
-/**
-* Need to add some comment here
-*/
 
+/* New line added from testline branch*/
 require "includes/FavoriteTweetsList.class.php";
 require "includes/codebird/codebird.php";
 
