@@ -24,11 +24,11 @@ sites/all/themes/README.txt
 web.config
 authorize.php
 cron.php
-index.php
+#index.php
 install.php
 update.php
 xmlrpc.php
-/includes
+#/includes
 /misc
 /modules
 /profiles
